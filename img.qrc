@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Pictures/Yeni klasör/panel button.png</file>
+        <file>../../Pictures/Yeni klasör/COOLERbutton.png</file>
+        <file>../../Pictures/Yeni klasör/HEATERbutton.png</file>
+        <file>../../Pictures/Yeni klasör/HUMIDITYbutton2.png</file>
+        <file>../../Pictures/Yeni klasör/PRESSUREbutton2.png</file>
+        <file>../../Pictures/Yeni klasör/ventilationbutton.png</file>
+    </qresource>
+</RCC>
